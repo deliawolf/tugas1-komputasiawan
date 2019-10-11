@@ -11,22 +11,23 @@
 	<!-- Hero unit -->
 	<div class="hero">
 		<div class="hero__content">
-		<div class="hero__overlay hero__overlay--gradient"></div>
-		<div class="hero__mask"></div>
-		<div class="page__header__inner">
-			<div class="container">
-					<div class="hero__content__inner" id='navConverter'>
-						<h1 class="hero__title">Kelompok 6</h1>
-						<p class="hero__text">Kelompok 6 berisikan 6 orang pria, dalam pengambilan tema keamanan komputasi awan kelompok ini mengambil pelanggaran data (data breaches)</p>
-						<a href="10116068.php" class="button button__primary">Anggota 1</a>
-						<a href="#" class="button button__primary">Anggota 2</a>
-						<a href="#" class="button button__primary">Anggota 3</a>
-						<a href="#" class="button button__primary">Anggota 4</a>
-						<a href="#" class="button button__primary">Anggota 5</a>
-						<br>
-						<a href="#" class="button button__delete">Review Cloud security</a>
+			<div class="hero__overlay hero__overlay--gradient"></div>
+				<div class="hero__mask"></div>
+					<div class="page__header__inner">
+						<div class="container">
+							<div class="hero__content__inner" id='navConverter'>
+							<h1 class="hero__title">Kelompok 6</h1>
+							<p class="hero__text">Kelompok 6 berisikan 6 orang pria, dalam pengambilan tema keamanan komputasi awan kelompok ini mengambil pelanggaran data (data breaches)</p>
+							<a href="10116068.php" class="button button__primary">Anggota 1</a>
+							<a href="#" class="button button__primary">Anggota 2</a>
+							<a href="#" class="button button__primary">Anggota 3</a>
+							<a href="#" class="button button__primary">Anggota 4</a>
+							<a href="#" class="button button__primary">Anggota 5</a>
+							<br>
+							<a href="#" class="button button__delete">Review Cloud security</a>
+						</div>
 					</div>
-					</div>
+				</div>
 			</div>
 		</div>
 	</div>

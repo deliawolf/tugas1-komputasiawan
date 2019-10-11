@@ -19,8 +19,8 @@
 							<h1 class="hero__title">Kelompok 6</h1>
 							<p class="hero__text">Kelompok 6 berisikan 6 orang pria, dalam pengambilan tema keamanan komputasi awan kelompok ini mengambil pelanggaran data (data breaches)</p>
 							<a href="10116068.php" class="button button__primary">Anggota 1</a>
-							<a href="#" class="button button__primary">Anggota 2</a>
-							<a href="#" class="button button__primary">Anggota 3</a>
+							<a href="http://tugas1-101187xx-43.herokuapp.com/" class="button button__primary">Anggota 2</a>
+							<a href="http://tugas1-101163xx-22.herokuapp.com/" class="button button__primary">Anggota 3</a>
 							<a href="#" class="button button__primary">Anggota 4</a>
 							<a href="#" class="button button__primary">Anggota 5</a>
 							<br>

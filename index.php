@@ -25,9 +25,8 @@
 							<a href="#" class="button button__primary">Anggota 5</a>
 							<br>
 							<a href="#" class="button button__delete">Review Cloud security</a>
+							</div>
 						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>

@@ -24,7 +24,7 @@
 							<a href="https://tugas1-101160xx-01.herokuapp.com/" class="button button__primary">Anggota 4</a>
 							<a href="http://tugas1-101163xx-25.herokuapp.com/" class="button button__primary">Anggota 5</a>
 							<br>
-							<a href="#" class="button button__delete">Review Cloud security</a>
+							<a href="https://drive.google.com/file/d/1mW6PbyTtZV7mfuOejBlyAhZxW_0wzsne/view?usp=sharing" class="button button__delete">Review Cloud security</a>
 							</div>
 						</div>
 			</div>
